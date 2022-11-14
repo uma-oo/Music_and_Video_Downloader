@@ -18,6 +18,6 @@
 
 
 # At the end 
-### The project needs more work and refactoring but it is really working well , and it stills always looking for improvments
+### The project needs more work and refactoring but it is really working well , and it stills always looking for improvements
 ### Feel Free to create your own version of the application
 ## Enjoy Music and Videos !!!!
